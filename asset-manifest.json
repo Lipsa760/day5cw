@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/day5cw/static/css/main.dacc22cb.css",
+    "main.js": "/day5cw/static/js/main.08827402.js",
+    "index.html": "/day5cw/index.html",
+    "main.dacc22cb.css.map": "/day5cw/static/css/main.dacc22cb.css.map",
+    "main.08827402.js.map": "/day5cw/static/js/main.08827402.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dacc22cb.css",
+    "static/js/main.08827402.js"
+  ]
+}
